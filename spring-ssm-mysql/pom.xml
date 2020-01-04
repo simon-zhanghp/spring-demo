@@ -144,4 +144,5 @@
             </plugin>
         </plugins>
     </build>
+<!--    测试idea 中连接github-->
 </project>
